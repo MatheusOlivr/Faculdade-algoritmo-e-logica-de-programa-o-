@@ -58,3 +58,22 @@ número e o sucessor.
 * Entrada: ler um número inteiro.
 * Processamento: calcular o valor do número menos um (antecessor) e o valor do número mais um (sucessor).
 * Saída: apresentar o antecessor, o número e o sucessor.
+
+## Programa 5 - Algoritmo que calcula a area de um triangulo:
+Escreva um algoritmo que calcule a área de um triângulo.
+
+### Estruturação do código:
+* Objetivo do algoritmo: calcular a área de triângulo.
+* Entrada: obter o valor da base e da altura do triângulo.
+* Processamento: calcular o valor da área que é dado por: A = (base x altura)/2
+* Saída: imprimir o valor da área.
+
+## Programa 6 - Algoritmo que calcula o valor de um produto com um desconto aplicado à ele.
+Construa um algoritmo que leia o preço de um produto, o percentual de desconto
+e calcule o valor a pagar e o valor do desconto.
+
+### Estruturação do código:
+* Objetivo do algoritmo: calcular o valor a pagar de um produto.
+* Entrada: ler o preço de um produto e o percentual de desconto.
+* Processamento: calcular o valor do desconto e subtrair do preço do produto.
+* Saída: imprimir o valor a pagar do produto e o valor do desconto.
