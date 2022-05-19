@@ -119,3 +119,16 @@ Escreva um algoritmo que calcule a área e o perímetro de um círculo.
 que é dado por 2*(pi*R) , onde A é o valor da área, P é o valor do perí-
 metro, e r é o raio do círculo.
 * Saída: imprimir o valor da área e do perímetro
+
+## Programa 10 - Algoritmo que calcula a area e o perimetro de um circulo:
+Elabore um algoritmo que leia um número inteiro e, posteriormente, apresente
+a raiz quadrada e o valor desse número elevado ao quadrado.
+
+### Estruturação do código:
+* Objetivo do algoritmo: calcular a raiz quadrada e o valor do número
+elevado ao quadrado.
+* Entrada: ler um número inteiro.
+* Processamento: utilizar as funções SQR e SQRT para elevar ao quadrado
+e obter a raiz quadrada, respectivamente.
+* Saída: imprimir a raiz quadrada e o valor do número elevado ao
+quadrado.
