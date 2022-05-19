@@ -113,7 +113,7 @@ bruto menos o desconto do INSS.
 Escreva um algoritmo que calcule a área e o perímetro de um círculo.
 
 ### Estruturação do código:
-* Objetivo do algoritmo: calcular a área e o perímetro de um círculo.
+* Objetivo do algoritmo: calcular a area e o perímetro de um círculo.
 * Entrada: ler o valor do raio.
 * Processamento: calcular a área que é dada por: a = pi.R²  e o perímetro
 que é dado por 2*(pi*R) , onde A é o valor da área, P é o valor do perí-
