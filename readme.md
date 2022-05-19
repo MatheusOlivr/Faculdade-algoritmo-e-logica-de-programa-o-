@@ -48,3 +48,13 @@ líquido, do INSS e FGTS.
 número de horas, o número de horas extras e o valor da hora trabalhada.
 * Processamento: calcular salário bruto, INSS, FGTS e salário líquido.
 * Saída: informar salário bruto, salário líquido, INSS e FGTS.
+
+## Programa 4 - Algoritmo que apresenta o antecessor e o sucessor de um numero
+Elabore um algoritmo que leia um número inteiro e apresente o antecessor, o
+número e o sucessor.
+
+### Estruturação do código:
+* Objetivo do algoritmo: apresentar o antecessor e o sucessor de um número.
+* Entrada: ler um número inteiro.
+* Processamento: calcular o valor do número menos um (antecessor) e o valor do número mais um (sucessor).
+* Saída: apresentar o antecessor, o número e o sucessor.
