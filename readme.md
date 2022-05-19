@@ -13,7 +13,7 @@ a altura e o telefone).
 * Processamento: não há processamento.
 * Saída: informar o nome da pessoa, a idade, o peso, a altura e o telefone.
 
-## Programa 2 - software que calcula o perimetro e a area de um quadrado:
+## Programa 2 - Algoritmo que calcula o perimetro e a area de um quadrado:
 Um quadrado é uma figura geométrica com quatro lados de mesmo compri-
 mento (L) e quatro ângulos retos. Elabore um algoritmo para calcular a área e
 o perímetro de um quadrado. Observando a figura a seguir, a área é dada pela
@@ -29,7 +29,7 @@ soma dos quatro lados, pode ser representado por P = 4 * L. A área
 (A) é dada por A = L * L.
 * Saída: informar o valor do perímetro (P) e o valor da área (A).
 
-## Programa 3 -  Software que calcula o salário bruto de um funcionário, o salário liquido, o inss e o fgts:
+## Programa 3 -  Algoritmo que calcula o salário bruto de um funcionário, o salário liquido, o inss e o fgts:
 Elaborar um algoritmo que apresente salário
 bruto, salário líquido, INSS e FGTS de um fun-
 cionário, sabendo que o salário bruto é dado
@@ -93,3 +93,18 @@ os carros foram locados, e o faturamento anual, considerando que 20%
 dos carros não serão locados.
 * Saída: imprimir o valor do faturamento mensal e o valor do fatura-
 mento anual.
+
+## Programa 8 - Algoritmo que calcula o salario liquido e o salario bruto de um professor
+Escreva um algoritmo que leia o valor da hora-aula, o número de horas-aula
+dadas no mês, e o percentual de desconto do INSS de um professor. Calcule e,
+depois, apresente o salário líquido e o salário bruto.
+
+### Estruturação do código:
+* Objetivo do algoritmo: calcular o salário líquido e o salário bruto de
+um professor.
+* Entrada: ler o valor da hora-aula, o número de aulas dadas no mês, e o
+percentual de desconto do INSS.
+* Processamento: calcular o salário bruto, dado pelo produto do número
+de horas-aula pelo valor da hora-aula, e o salário líquido, que é o salário
+bruto menos o desconto do INSS.
+* Saída: imprimir o valor do salário bruto e o valor do salário líquido.
