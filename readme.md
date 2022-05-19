@@ -77,3 +77,19 @@ e calcule o valor a pagar e o valor do desconto.
 * Entrada: ler o preço de um produto e o percentual de desconto.
 * Processamento: calcular o valor do desconto e subtrair do preço do produto.
 * Saída: imprimir o valor a pagar do produto e o valor do desconto.
+
+## Programa 7 - Algoritmo que imprime o faturamento mensal e anual de locadora de carro:
+Elabore um algoritmo que leia a quantidade de carros que uma locadora de au-
+tomóveis possui e o valor do aluguel por carro a cada mês. Apresente as seguintes
+informações: a) faturamento mensal, se todos os carros forem locados; b) fatura-
+mento anual, se 20% dos carros não forem locados todo mês.
+
+### Estruturação do código:
+* Objetivo do algoritmo: calcular o faturamento mensal e o anual de uma
+locadora de carros.
+* Entrada: ler a quantidade de carros e o valor do aluguel mensal.
+* Processamento: calcular o faturamento mensal, considerando que todos
+os carros foram locados, e o faturamento anual, considerando que 20%
+dos carros não serão locados.
+* Saída: imprimir o valor do faturamento mensal e o valor do fatura-
+mento anual.
