@@ -108,3 +108,14 @@ percentual de desconto do INSS.
 de horas-aula pelo valor da hora-aula, e o salário líquido, que é o salário
 bruto menos o desconto do INSS.
 * Saída: imprimir o valor do salário bruto e o valor do salário líquido.
+
+## Programa 9 - Algoritmo que calcula a area e o perimetro de um circulo:
+Escreva um algoritmo que calcule a área e o perímetro de um círculo.
+
+### Estruturação do código:
+* Objetivo do algoritmo: calcular a área e o perímetro de um círculo.
+* Entrada: ler o valor do raio.
+* Processamento: calcular a área que é dada por: a = pi.R²  e o perímetro
+que é dado por 2*(pi*R) , onde A é o valor da área, P é o valor do perí-
+metro, e r é o raio do círculo.
+* Saída: imprimir o valor da área e do perímetro
