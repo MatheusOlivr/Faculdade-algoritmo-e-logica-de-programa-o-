@@ -123,6 +123,8 @@ e obter a raiz quadrada, respectivamente.
 * Saída: imprimir a raiz quadrada e o valor do número elevado ao
 quadrado
 
+# Algoritmos com estruturas condicionais:
+
 ## Programa 11 - Algoritmo que descobre se um número é par e se for retorna metade desse número:
 O problema consiste em identificar se um número
 inteiro é um número par e, então, imprimir a metade do número. Retomando
@@ -163,3 +165,14 @@ aparecer uma mensagem informando que não existe mês com este número. Retomand
 Entrada: obter um número inteiro.
 * Processamento: verificar se o número digitado está entre 1 e 12.
 * Saída: imprimir o mês equivalente por extenso.
+
+## Programa 15 - Algortimo que escreve se a pessoa é menor de idade, maior ou idoso.
+Construa um algoritmo que receba o nome e a idade de uma pessoa e informe
+se é menor de idade, maior de idade ou idoso.
+### Estruturação do código:
+* Objetivo do algoritmo: informar se a pessoa é menor de idade, maior
+ou idoso.
+* Entrada: ler nome e idade.
+* Processamento: verificar se a idade é menor que 18 (menor de idade),
+entre 18 e 64 anos (maior de idade) ou maior ou igual a 65 anos (idoso).
+* Saída: escrever se a pessoa é menor de idade, maior ou idoso. 
