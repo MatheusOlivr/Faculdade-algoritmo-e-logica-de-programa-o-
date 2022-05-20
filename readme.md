@@ -144,3 +144,11 @@ No processo de resolução, seguiremos esses passos:
 * Processamento: verificar se o número está entre 20 e 90.
 * Saída: imprimir se o número está dentro ou fora da faixa de 20 a 90.
 
+## Programa 13 - Algortimo que descobre o maior número entre três núemros:
+problema que consiste em encontrar o maior número dentre três números. Seguindo o método de
+estruturação do problema, visto na Unidade 1, temos que:
+### Estruturação do código:
+* Objetivo do algoritmo: encontrar o maior número.
+* Entrada: obter três números inteiros.
+* Processamento: comparar os números e armazenar o valor do maior.
+* Saída: imprimir o maior número.
