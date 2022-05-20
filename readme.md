@@ -195,10 +195,23 @@ abaixo do peso (IMC menor que 20), normal (IMC entre 20 e 25), com excesso de
 peso (IMC entre 26 e 30), obesa (IMC entre 31 e 35) ou com obesidade mórbida
 (acima de 35). O cálculo do IMC é dado por: peso/(altura²) ->em cm
 ### Estruturação do código:
-■ Objetivo do algoritmo: verificar a faixa de risco de uma pessoa a partir
+* Objetivo do algoritmo: verificar a faixa de risco de uma pessoa a partir
 do IMC.
-■ Entrada: ler peso e altura.
-■ Processamento: verificar se o IMC é menor que 20 (abaixo do peso),
+* Entrada: ler peso e altura.
+* Processamento: verificar se o IMC é menor que 20 (abaixo do peso),
 entre 20 e 25 (normal), entre 26 e 30 (excesso de peso), entre 31 e 35
 (obesidade) ou acima de 35 (obesidade mórbida).
-■ Saída: imprimir a faixa de risco da pessoa. 
+* Saída: imprimir a faixa de risco da pessoa. 
+
+## Programa 17 -
+Elabore um algoritmo que receba o salário de um funcionário e o código do
+cargo e apresente o cargo, o valor do aumento e o novo salário. A tabela a seguir
+apresenta os cargos. 
+![](https://imgur.com/tvtslm6.png)
+### Estruturação do código:
+* Objetivo do algoritmo: calcular o aumento de salário, de acordo com
+o cargo.
+* Entrada: ler salário e código do cargo.
+* Processamento: calcular o aumento salarial de acordo com o cargo
+da pessoa.
+* Saída: imprimir o nome do cargo, o valor do aumento e o novo salário.
