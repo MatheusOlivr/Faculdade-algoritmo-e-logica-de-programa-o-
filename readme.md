@@ -122,6 +122,7 @@ elevado ao quadrado.
 e obter a raiz quadrada, respectivamente.
 * Saída: imprimir a raiz quadrada e o valor do número elevado ao
 quadrado
+(ESSE NÃO EM ARQUIVO DE EXEMPLO)
 
 # Algoritmos com estruturas condicionais:
 
@@ -203,7 +204,7 @@ entre 20 e 25 (normal), entre 26 e 30 (excesso de peso), entre 31 e 35
 (obesidade) ou acima de 35 (obesidade mórbida).
 * Saída: imprimir a faixa de risco da pessoa. 
 
-## Programa 17 -
+## Programa 17 - Algoritmo que calcula o reajuste salarial e imprimie o nome do cargo, o valor do aumento e o novo salário
 Elabore um algoritmo que receba o salário de um funcionário e o código do
 cargo e apresente o cargo, o valor do aumento e o novo salário. A tabela a seguir
 apresenta os cargos. 
@@ -215,3 +216,13 @@ o cargo.
 * Processamento: calcular o aumento salarial de acordo com o cargo
 da pessoa.
 * Saída: imprimir o nome do cargo, o valor do aumento e o novo salário.
+
+## Programa 18 - Algoritmo que calcula a equação do segundo grau:
+Escreva um algoritmo para resolver equações do segundo grau 
+### Estruturação do código:
+* Objetivo do algoritmo: resolver a equação do segundo grau.
+* Entrada: ler os valores de a, b e c.
+* Processamento: calcular o delta e o valor das raízes.
+* Saída: imprimir o valor da raiz real. 
+### Formula matemática:
+![](https://imgur.com/6FnzMkF.png)
