@@ -188,3 +188,17 @@ e 65 anos) e eleitor facultativo (entre 16 e 18 anos e maior que 65 anos).
 18 e 65 anos (eleitor obrigatório) ou entre 16 e 18 ou maior que 65 anos
 (eleitor facultativo).
 * Saída: escrever a classe eleitoral. 
+
+## Programa 17 - Algoritmo que calcula o IMC de uma pessoa e identifica como ela está de saúde:
+Escreva um algoritmo que calcule o IMC de uma pessoa e identifique se ela está
+abaixo do peso (IMC menor que 20), normal (IMC entre 20 e 25), com excesso de
+peso (IMC entre 26 e 30), obesa (IMC entre 31 e 35) ou com obesidade mórbida
+(acima de 35). O cálculo do IMC é dado por: peso/(altura²) ->em cm
+### Estruturação do código:
+■ Objetivo do algoritmo: verificar a faixa de risco de uma pessoa a partir
+do IMC.
+■ Entrada: ler peso e altura.
+■ Processamento: verificar se o IMC é menor que 20 (abaixo do peso),
+entre 20 e 25 (normal), entre 26 e 30 (excesso de peso), entre 31 e 35
+(obesidade) ou acima de 35 (obesidade mórbida).
+■ Saída: imprimir a faixa de risco da pessoa. 
