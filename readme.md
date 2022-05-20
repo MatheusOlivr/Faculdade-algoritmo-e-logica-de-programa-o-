@@ -131,4 +131,16 @@ elevado ao quadrado.
 * Processamento: utilizar as funções SQR e SQRT para elevar ao quadrado
 e obter a raiz quadrada, respectivamente.
 * Saída: imprimir a raiz quadrada e o valor do número elevado ao
-quadrado.
+quadrado
+
+## Programa 11 - Algoritmo que descobre se um número é par e se for retorna metade desse número:
+O problema consiste em identificar se um número
+inteiro é um número par e, então, imprimir a metade do número. Retomando
+nossos passos para a construção de algoritmos, temos:
+
+### Estruturação do código:
+* Objetivo do algoritmo: verificar se o número é par e imprimir a metade
+deste número.
+* Entrada: obter um número.
+* Processamento: verificar se o número é par.
+* Saída: imprimir a metade do número, caso ele seja par.
