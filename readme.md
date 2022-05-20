@@ -152,3 +152,14 @@ estruturação do problema, visto na Unidade 1, temos que:
 * Entrada: obter três números inteiros.
 * Processamento: comparar os números e armazenar o valor do maior.
 * Saída: imprimir o maior número.
+
+## Programa 14 - Algoritmo que retorna o mês do ano que corresponde ao número digitado pelo usuario:
+Elaboraremos um algoritmo para que, dado um número inteiro, escreva-se
+o mês correspondente. Se for digitado um número fora desse intervalo, deverá
+aparecer uma mensagem informando que não existe mês com este número. Retomando o nosso modelo de estruturação de problemas, temos que:
+(Dica: Usar estrutura de decisão multipla)
+### Estruturação do código:
+* Objetivo do algoritmo: escrever o mês equivalente ao número digitado.
+Entrada: obter um número inteiro.
+* Processamento: verificar se o número digitado está entre 1 e 12.
+* Saída: imprimir o mês equivalente por extenso.
