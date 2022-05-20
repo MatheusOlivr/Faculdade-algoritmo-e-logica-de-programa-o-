@@ -144,4 +144,4 @@ deste número.
 * Entrada: obter um número.
 * Processamento: verificar se o número é par.
 * Saída: imprimir a metade do número, caso ele seja par.
----
+
