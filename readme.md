@@ -4,7 +4,6 @@ Formular um algoritmo que leia e apresente as seguintes informações de uma
 pessoa: nome, idade, peso, altura e telefone. Antes de partir para a elaboração do
 algoritmo, dividiremos o problema, tal como aprendemos em “Como construir
 algoritmos”, em objetivo do algoritmo, da entrada, do processamento e da saída.
-
 ### Estruturação do algoritmo:
 * Objetivo do algoritmo: ler e apresentar nome, idade, peso, altura e te-
 lefone de uma pessoa.
@@ -19,7 +18,6 @@ mento (L) e quatro ângulos retos. Elabore um algoritmo para calcular a área e
 o perímetro de um quadrado. Observando a figura a seguir, a área é dada pela
 superfície (preenchimento entre o pontilhado), e o perímetro é a medida do
 contorno do objeto, a soma dos quatro lados (pontilhado).
-
 ### Estruturação do algoritmo:
 * Objetivo do algoritmo: calcular o perímetro e a área de um quadrado.
 * Entrada: para calcular o perímetro e a área, precisamos saber qual o com-
@@ -40,7 +38,6 @@ Valor por Hora. A Porcentagem de Hora Extra
 Bruto * 9%, e o FGTS é o Salário Bruto * 8%. Por
 fim, o salário líquido é dado pelo salário bruto
 – INSS.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: apresentar o valor do salário bruto, do salário
 líquido, do INSS e FGTS.
@@ -52,7 +49,6 @@ número de horas, o número de horas extras e o valor da hora trabalhada.
 ## Programa 4 - Algoritmo que apresenta o antecessor e o sucessor de um numero
 Elabore um algoritmo que leia um número inteiro e apresente o antecessor, o
 número e o sucessor.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: apresentar o antecessor e o sucessor de um número.
 * Entrada: ler um número inteiro.
@@ -61,7 +57,6 @@ número e o sucessor.
 
 ## Programa 5 - Algoritmo que calcula a area de um triangulo:
 Escreva um algoritmo que calcule a área de um triângulo.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular a área de triângulo.
 * Entrada: obter o valor da base e da altura do triângulo.
@@ -71,7 +66,6 @@ Escreva um algoritmo que calcule a área de um triângulo.
 ## Programa 6 - Algoritmo que calcula o valor de um produto com um desconto aplicado à ele.
 Construa um algoritmo que leia o preço de um produto, o percentual de desconto
 e calcule o valor a pagar e o valor do desconto.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular o valor a pagar de um produto.
 * Entrada: ler o preço de um produto e o percentual de desconto.
@@ -83,7 +77,6 @@ Elabore um algoritmo que leia a quantidade de carros que uma locadora de au-
 tomóveis possui e o valor do aluguel por carro a cada mês. Apresente as seguintes
 informações: a) faturamento mensal, se todos os carros forem locados; b) fatura-
 mento anual, se 20% dos carros não forem locados todo mês.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular o faturamento mensal e o anual de uma
 locadora de carros.
@@ -98,7 +91,6 @@ mento anual.
 Escreva um algoritmo que leia o valor da hora-aula, o número de horas-aula
 dadas no mês, e o percentual de desconto do INSS de um professor. Calcule e,
 depois, apresente o salário líquido e o salário bruto.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular o salário líquido e o salário bruto de
 um professor.
@@ -111,7 +103,6 @@ bruto menos o desconto do INSS.
 
 ## Programa 9 - Algoritmo que calcula a area e o perimetro de um circulo:
 Escreva um algoritmo que calcule a área e o perímetro de um círculo.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular a area e o perímetro de um círculo.
 * Entrada: ler o valor do raio.
@@ -123,7 +114,6 @@ metro, e r é o raio do círculo.
 ## Programa 10 - Algoritmo que calcula a area e o perimetro de um circulo:
 Elabore um algoritmo que leia um número inteiro e, posteriormente, apresente
 a raiz quadrada e o valor desse número elevado ao quadrado.
-
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular a raiz quadrada e o valor do número
 elevado ao quadrado.
@@ -137,11 +127,20 @@ quadrado
 O problema consiste em identificar se um número
 inteiro é um número par e, então, imprimir a metade do número. Retomando
 nossos passos para a construção de algoritmos, temos:
-
 ### Estruturação do código:
 * Objetivo do algoritmo: verificar se o número é par e imprimir a metade
 deste número.
 * Entrada: obter um número.
 * Processamento: verificar se o número é par.
 * Saída: imprimir a metade do número, caso ele seja par.
+
+## Programa 12 - Algoritmo que diz se um número está dentro  de 20 a 90 ou fora desse raio.
+O problema consiste em: dado um número inteiro,
+verificar se ele compreende entre 20 e 90.
+### Estruturação do código:
+No processo de resolução, seguiremos esses passos:
+* Objetivo do algoritmo: verificar se o número compreende entre 20 e 90.
+* Entrada: obter um número inteiro.
+* Processamento: verificar se o número está entre 20 e 90.
+* Saída: imprimir se o número está dentro ou fora da faixa de 20 a 90.
 
