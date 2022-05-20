@@ -176,3 +176,15 @@ ou idoso.
 * Processamento: verificar se a idade é menor que 18 (menor de idade),
 entre 18 e 64 anos (maior de idade) ou maior ou igual a 65 anos (idoso).
 * Saída: escrever se a pessoa é menor de idade, maior ou idoso. 
+
+## Programa 16 - Algoritmo que diz a classe eleitoral do usuario baseado na idade dele:
+Elabore um algoritmo que receba a idade de uma pessoa e identifique sua classe
+eleitoral: não eleitor (menor que 16 anos de idade), eleitor obrigatório (entre 18
+e 65 anos) e eleitor facultativo (entre 16 e 18 anos e maior que 65 anos).
+### Estruturação do código:
+* Objetivo do algoritmo: verificar a classe eleitoral de uma pessoa.
+* Entrada: ler idade.
+* Processamento: verificar se a idade é menor que 16 (não eleitor), entre
+18 e 65 anos (eleitor obrigatório) ou entre 16 e 18 ou maior que 65 anos
+(eleitor facultativo).
+* Saída: escrever a classe eleitoral. 
