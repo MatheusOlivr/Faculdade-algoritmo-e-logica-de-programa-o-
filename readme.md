@@ -238,3 +238,14 @@ Que tal construir um algoritmo para efetuar a tabuada de um número qualquer? O 
 informado pelos valores inteiros, compreendidos entre 1 e 10.
 * Saída: imprimir a tabuada de 1 a 10 do número informado na entrada
 
+## Algoritmo 21 - ALgoritmo que leia quantos números, dos digitados pelo úsuario, estão entre 100 e 300:
+ler vários números inteiros e informar quantos se encontram no intervalo de 100 a 300. Se for digitado
+o valor 0, o algoritmo encerra sua execução. Seguindo o método de estruturação
+### Estruturação do código:
+* Objetivo do algoritmo: ler vários números e informar quantos estão no
+intervalo entre 100 e 300.
+* Entrada: ler números inteiros, enquanto o número 0 não for digitado
+pelo usuário.
+* Processamento: contar quantos números estão no intervalo entre 100 e 300.
+* Saída: imprimir a quantidade de números entre 100 e 300.
+
