@@ -1,5 +1,5 @@
-# Atividade da apostila de algoritmo e lógica de programação
-## Programa 1 - dados do usuario:
+# Atividade da apostila de algoritmo e lógica de Algoritmoção
+## Algoritmo 1 - dados do usuario:
 Formular um algoritmo que leia e apresente as seguintes informações de uma
 pessoa: nome, idade, peso, altura e telefone. Antes de partir para a elaboração do
 algoritmo, dividiremos o problema, tal como aprendemos em “Como construir
@@ -12,7 +12,7 @@ a altura e o telefone).
 * Processamento: não há processamento.
 * Saída: informar o nome da pessoa, a idade, o peso, a altura e o telefone.
 
-## Programa 2 - Algoritmo que calcula o perimetro e a area de um quadrado:
+## Algoritmo 2 - Algoritmo que calcula o perimetro e a area de um quadrado:
 Um quadrado é uma figura geométrica com quatro lados de mesmo compri-
 mento (L) e quatro ângulos retos. Elabore um algoritmo para calcular a área e
 o perímetro de um quadrado. Observando a figura a seguir, a área é dada pela
@@ -27,7 +27,7 @@ soma dos quatro lados, pode ser representado por P = 4 * L. A área
 (A) é dada por A = L * L.
 * Saída: informar o valor do perímetro (P) e o valor da área (A).
 
-## Programa 3 -  Algoritmo que calcula o salário bruto de um funcionário, o salário liquido, o inss e o fgts:
+## Algoritmo 3 -  Algoritmo que calcula o salário bruto de um funcionário, o salário liquido, o inss e o fgts:
 Elaborar um algoritmo que apresente salário
 bruto, salário líquido, INSS e FGTS de um fun-
 cionário, sabendo que o salário bruto é dado
@@ -46,7 +46,7 @@ número de horas, o número de horas extras e o valor da hora trabalhada.
 * Processamento: calcular salário bruto, INSS, FGTS e salário líquido.
 * Saída: informar salário bruto, salário líquido, INSS e FGTS.
 
-## Programa 4 - Algoritmo que apresenta o antecessor e o sucessor de um numero
+## Algoritmo 4 - Algoritmo que apresenta o antecessor e o sucessor de um numero
 Elabore um algoritmo que leia um número inteiro e apresente o antecessor, o
 número e o sucessor.
 ### Estruturação do código:
@@ -55,7 +55,7 @@ número e o sucessor.
 * Processamento: calcular o valor do número menos um (antecessor) e o valor do número mais um (sucessor).
 * Saída: apresentar o antecessor, o número e o sucessor.
 
-## Programa 5 - Algoritmo que calcula a area de um triangulo:
+## Algoritmo 5 - Algoritmo que calcula a area de um triangulo:
 Escreva um algoritmo que calcule a área de um triângulo.
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular a área de triângulo.
@@ -63,7 +63,7 @@ Escreva um algoritmo que calcule a área de um triângulo.
 * Processamento: calcular o valor da área que é dado por: A = (base x altura)/2
 * Saída: imprimir o valor da área.
 
-## Programa 6 - Algoritmo que calcula o valor de um produto com um desconto aplicado à ele.
+## Algoritmo 6 - Algoritmo que calcula o valor de um produto com um desconto aplicado à ele.
 Construa um algoritmo que leia o preço de um produto, o percentual de desconto
 e calcule o valor a pagar e o valor do desconto.
 ### Estruturação do código:
@@ -72,7 +72,7 @@ e calcule o valor a pagar e o valor do desconto.
 * Processamento: calcular o valor do desconto e subtrair do preço do produto.
 * Saída: imprimir o valor a pagar do produto e o valor do desconto.
 
-## Programa 7 - Algoritmo que imprime o faturamento mensal e anual de locadora de carro:
+## Algoritmo 7 - Algoritmo que imprime o faturamento mensal e anual de locadora de carro:
 Elabore um algoritmo que leia a quantidade de carros que uma locadora de au-
 tomóveis possui e o valor do aluguel por carro a cada mês. Apresente as seguintes
 informações: a) faturamento mensal, se todos os carros forem locados; b) fatura-
@@ -87,7 +87,7 @@ dos carros não serão locados.
 * Saída: imprimir o valor do faturamento mensal e o valor do fatura-
 mento anual.
 
-## Programa 8 - Algoritmo que calcula o salario liquido e o salario bruto de um professor
+## Algoritmo 8 - Algoritmo que calcula o salario liquido e o salario bruto de um professor
 Escreva um algoritmo que leia o valor da hora-aula, o número de horas-aula
 dadas no mês, e o percentual de desconto do INSS de um professor. Calcule e,
 depois, apresente o salário líquido e o salário bruto.
@@ -101,7 +101,7 @@ de horas-aula pelo valor da hora-aula, e o salário líquido, que é o salário
 bruto menos o desconto do INSS.
 * Saída: imprimir o valor do salário bruto e o valor do salário líquido.
 
-## Programa 9 - Algoritmo que calcula a area e o perimetro de um circulo:
+## Algoritmo 9 - Algoritmo que calcula a area e o perimetro de um circulo:
 Escreva um algoritmo que calcule a área e o perímetro de um círculo.
 ### Estruturação do código:
 * Objetivo do algoritmo: calcular a area e o perímetro de um círculo.
@@ -111,7 +111,7 @@ que é dado por 2*(pi*R) , onde A é o valor da área, P é o valor do perí-
 metro, e r é o raio do círculo.
 * Saída: imprimir o valor da área e do perímetro
 
-## Programa 10 - Algoritmo que calcula a area e o perimetro de um circulo:
+## Algoritmo 10 - Algoritmo que calcula a area e o perimetro de um circulo:
 Elabore um algoritmo que leia um número inteiro e, posteriormente, apresente
 a raiz quadrada e o valor desse número elevado ao quadrado.
 ### Estruturação do código:
@@ -126,7 +126,7 @@ quadrado
 
 # Algoritmos com estruturas condicionais:
 
-## Programa 11 - Algoritmo que descobre se um número é par e se for retorna metade desse número:
+## Algoritmo 11 - Algoritmo que descobre se um número é par e se for retorna metade desse número:
 O problema consiste em identificar se um número
 inteiro é um número par e, então, imprimir a metade do número. Retomando
 nossos passos para a construção de algoritmos, temos:
@@ -137,7 +137,7 @@ deste número.
 * Processamento: verificar se o número é par.
 * Saída: imprimir a metade do número, caso ele seja par.
 
-## Programa 12 - Algoritmo que diz se um número está dentro  de 20 a 90 ou fora desse raio.
+## Algoritmo 12 - Algoritmo que diz se um número está dentro  de 20 a 90 ou fora desse raio.
 O problema consiste em: dado um número inteiro,
 verificar se ele compreende entre 20 e 90.
 ### Estruturação do código:
@@ -147,7 +147,7 @@ No processo de resolução, seguiremos esses passos:
 * Processamento: verificar se o número está entre 20 e 90.
 * Saída: imprimir se o número está dentro ou fora da faixa de 20 a 90.
 
-## Programa 13 - Algortimo que descobre o maior número entre três núemros:
+## Algoritmo 13 - Algortimo que descobre o maior número entre três núemros:
 problema que consiste em encontrar o maior número dentre três números. Seguindo o método de
 estruturação do problema, visto na Unidade 1, temos que:
 ### Estruturação do código:
@@ -156,7 +156,7 @@ estruturação do problema, visto na Unidade 1, temos que:
 * Processamento: comparar os números e armazenar o valor do maior.
 * Saída: imprimir o maior número.
 
-## Programa 14 - Algoritmo que retorna o mês do ano que corresponde ao número digitado pelo usuario:
+## Algoritmo 14 - Algoritmo que retorna o mês do ano que corresponde ao número digitado pelo usuario:
 Elaboraremos um algoritmo para que, dado um número inteiro, escreva-se
 o mês correspondente. Se for digitado um número fora desse intervalo, deverá
 aparecer uma mensagem informando que não existe mês com este número. Retomando o nosso modelo de estruturação de problemas, temos que:
@@ -167,7 +167,7 @@ Entrada: obter um número inteiro.
 * Processamento: verificar se o número digitado está entre 1 e 12.
 * Saída: imprimir o mês equivalente por extenso.
 
-## Programa 15 - Algortimo que escreve se a pessoa é menor de idade, maior ou idoso.
+## Algoritmo 15 - Algortimo que escreve se a pessoa é menor de idade, maior ou idoso.
 Construa um algoritmo que receba o nome e a idade de uma pessoa e informe
 se é menor de idade, maior de idade ou idoso.
 ### Estruturação do código:
@@ -178,7 +178,7 @@ ou idoso.
 entre 18 e 64 anos (maior de idade) ou maior ou igual a 65 anos (idoso).
 * Saída: escrever se a pessoa é menor de idade, maior ou idoso. 
 
-## Programa 16 - Algoritmo que diz a classe eleitoral do usuario baseado na idade dele:
+## Algoritmo 16 - Algoritmo que diz a classe eleitoral do usuario baseado na idade dele:
 Elabore um algoritmo que receba a idade de uma pessoa e identifique sua classe
 eleitoral: não eleitor (menor que 16 anos de idade), eleitor obrigatório (entre 18
 e 65 anos) e eleitor facultativo (entre 16 e 18 anos e maior que 65 anos).
@@ -190,7 +190,7 @@ e 65 anos) e eleitor facultativo (entre 16 e 18 anos e maior que 65 anos).
 (eleitor facultativo).
 * Saída: escrever a classe eleitoral. 
 
-## Programa 17 - Algoritmo que calcula o IMC de uma pessoa e identifica como ela está de saúde:
+## Algoritmo 17 - Algoritmo que calcula o IMC de uma pessoa e identifica como ela está de saúde:
 Escreva um algoritmo que calcule o IMC de uma pessoa e identifique se ela está
 abaixo do peso (IMC menor que 20), normal (IMC entre 20 e 25), com excesso de
 peso (IMC entre 26 e 30), obesa (IMC entre 31 e 35) ou com obesidade mórbida
@@ -204,7 +204,7 @@ entre 20 e 25 (normal), entre 26 e 30 (excesso de peso), entre 31 e 35
 (obesidade) ou acima de 35 (obesidade mórbida).
 * Saída: imprimir a faixa de risco da pessoa. 
 
-## Programa 17 - Algoritmo que calcula o reajuste salarial e imprimie o nome do cargo, o valor do aumento e o novo salário
+## Algoritmo 18 - Algoritmo que calcula o reajuste salarial e imprimie o nome do cargo, o valor do aumento e o novo salário
 Elabore um algoritmo que receba o salário de um funcionário e o código do
 cargo e apresente o cargo, o valor do aumento e o novo salário. A tabela a seguir
 apresenta os cargos. 
@@ -217,7 +217,7 @@ o cargo.
 da pessoa.
 * Saída: imprimir o nome do cargo, o valor do aumento e o novo salário.
 
-## Programa 18 - Algoritmo que calcula a equação do segundo grau:
+## Algoritmo 19 - Algoritmo que calcula a equação do segundo grau:
 Escreva um algoritmo para resolver equações do segundo grau 
 ### Estruturação do código:
 * Objetivo do algoritmo: resolver a equação do segundo grau.
@@ -226,3 +226,15 @@ Escreva um algoritmo para resolver equações do segundo grau
 * Saída: imprimir o valor da raiz real. 
 ### Formula matemática:
 ![](https://imgur.com/6FnzMkF.png)
+
+# Algortimos com estruturas de repetição:
+
+## Algoritmo 20 - Algoritmo que retorna a tabuada do número digitado pelo úsusario:
+Que tal construir um algoritmo para efetuar a tabuada de um número qualquer? O primeiro passo é estruturar o nosso problema:
+### Estruturação do código:
+* Objetivo do algoritmo: calcular a tabuada de um número inteiro.
+* Entrada: obter um número inteiro.
+* Processamento: efetuar as operações de multiplicação entre o número
+informado pelos valores inteiros, compreendidos entre 1 e 10.
+* Saída: imprimir a tabuada de 1 a 10 do número informado na entrada
+
