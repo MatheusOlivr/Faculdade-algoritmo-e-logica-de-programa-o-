@@ -258,3 +258,29 @@ O fatorial de um número é representado por n! Tomemos como exemplo o fatorial 
 menores ou igual ao número lido na entrada.
 * Saída: imprimir o fatorial.
 
+## Algoritmo 23 - 
+Em uma instituição de ensino, a aprovação de um aluno em uma disciplina ocorre
+quando a média das notas é maior ou igual a 7. Para auxiliar o professor em suas
+atividades, elabore um algoritmo para: ler a quantidade de provas da disciplina, o
+código de aluno e as notas do aluno. Calcule a média final de cada aluno e informe
+o número de alunos aprovados e reprovados. O algoritmo deve ser executado até
+que seja informado um código de aluno igual a 0. Sistematizando as informações
+do problema de acordo com o método, temos que:
+### Estruturação do código:
+Objetivo do algoritmo: contabilizar o número de alunos aprovados
+e reprovados.
+* Entrada: ler o número de provas da disciplina, os códigos e as notas dos
+alunos.
+* Processamento: calcular a média de cada e contar o número de
+aprovados e reprovados.
+* Saída: imprimir o número de aprovados e reprovados. 
+-- Exemplo sendo trabalhado
+
+## Algoritmo 24 - Algoritmo que imprime na tela a palavra algoritmo a quantidade de vezes que o úsuario deseja:
+Escreva um algoritmo que leia o número de vezes que se deseja imprimir a palavra “Algoritmos” e imprimir.
+### Estruturação do código:
+* Objetivo do algoritmo: imprimir “ALGORITMOS”, tantas vezes quanto
+o usuário desejar.
+* Entrada: ler um número inteiro.
+* Processamento: não há.
+* Saída: imprimir a palavra “Algoritmos”, o número de vezes informado. 
