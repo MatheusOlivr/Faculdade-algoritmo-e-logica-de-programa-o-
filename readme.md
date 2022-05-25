@@ -289,9 +289,18 @@ o usuário desejar.
 Elabore um algoritmo que leia 10 números inteiros e conte quantos são pares
 e quantos são ímpares.
 ### Estruturação do código:
-
 * Objetivo do algoritmo: ler 10 números e contar os pares e ímpares.
 * Entrada: ler 10 números inteiros.
 * Processamento: verificar se o número é par ou ímpar e contar a quanti-
 dade de pares e ímpares.
 * Saída: imprimir o número de pares e ímpares.
+
+## Algoritmo 26 - Algoritmo que conta quantos números inteiros o usuário digitou e só para de funcionar quando ele digita um número negativo
+Construa um algoritmo que entre com números inteiros, enquanto forem posi-
+tivos, e imprima quantos números foram digitados.
+### Estruturação do código:
+* Objetivo do algoritmo: ler vários números, enquanto forem positivos,
+e contar quantos foram digitados.
+* Entrada: ler números enquanto forem positivos.
+* Processamento: contar a quantidade de números digitada.
+* Saída: imprimir a quantidade de números positivos digitada.
