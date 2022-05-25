@@ -283,4 +283,15 @@ Escreva um algoritmo que leia o número de vezes que se deseja imprimir a palavr
 o usuário desejar.
 * Entrada: ler um número inteiro.
 * Processamento: não há.
-* Saída: imprimir a palavra “Algoritmos”, o número de vezes informado. 
+* Saída: imprimir a palavra “Algoritmos”, o número de vezes informado.
+
+## Algoritmo 25 - Algoritmo que lê 10 números e diz quais desses números são pares e quais são impares
+Elabore um algoritmo que leia 10 números inteiros e conte quantos são pares
+e quantos são ímpares.
+### Estruturação do código:
+
+* Objetivo do algoritmo: ler 10 números e contar os pares e ímpares.
+* Entrada: ler 10 números inteiros.
+* Processamento: verificar se o número é par ou ímpar e contar a quanti-
+dade de pares e ímpares.
+* Saída: imprimir o número de pares e ímpares.
