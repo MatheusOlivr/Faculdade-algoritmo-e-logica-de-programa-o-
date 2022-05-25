@@ -249,3 +249,12 @@ pelo usuário.
 * Processamento: contar quantos números estão no intervalo entre 100 e 300.
 * Saída: imprimir a quantidade de números entre 100 e 300.
 
+## Algoritmo 22 - Algoritmo que retorna o fatorial de um número digitado pelo úsuario:
+O fatorial de um número é representado por n! Tomemos como exemplo o fatorial de 7, representado por 7! O cálculo de 7! é: 7 ✕ 6 ✕ 5 ✕ 4 ✕ 3 ✕ 2 ✕ 1, igual a 5040. Agora que recordamos o que é o fatorial, escreveremos um algoritmo para calcular o fatorial de um número qualquer. Seguindo o método de estruturação de problemas, conforme visto na Unidade 1, temos que:
+### Estruturação do código:
+* Objetivo do algoritmo: calcular o fatorial de um número.
+* Entrada: ler o número o qual se deseja calcular o fatorial.
+* Processamento: efetuar o produto de todos os números inteiros positivos
+menores ou igual ao número lido na entrada.
+* Saída: imprimir o fatorial.
+
